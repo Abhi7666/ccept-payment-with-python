@@ -1,6 +1,6 @@
 
 
-# Accept Payment with Python
+     # Accept Payment with Python
 
 This project allows users to generate UPI payment QR codes using Python.
 By entering a UPI ID, the script automatically creates QR codes for **PhonePe**, **Paytm**, and **Google Pay**, making digital payments simple and fast.
